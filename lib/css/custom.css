@@ -1,0 +1,17 @@
+.no-effect {
+	background: inherit !important;
+	border: none !important;
+	box-shadow: none !important;
+}
+
+ul.list-style-type-none {
+	list-style: none;
+}
+
+.full-width {
+	width: 100% !important;
+} 
+
+.max-height {
+	max-height:500px !important;
+}
